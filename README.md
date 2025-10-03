@@ -31,7 +31,7 @@ A modern e-commerce platform focused on user experience and seamless shopping.
 
 ### 📊 GitHub Stats
 
-![Jadrien's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Jadrien's GitHub stats](https://github-readme-stats.vercel.app/api?username=jadrienoofy&show_icons=true&theme=radical)
 
 ---
 
