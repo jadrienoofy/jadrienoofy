@@ -8,7 +8,7 @@ I'm a passionate front-end developer exploring modern web technologies. I enjoy 
 
 - 🌱 I’m currently learning **Advanced JavaScript**
 - 💻 I love **HTML, CSS, JavaScript, and Tailwind CSS**
-- 📫 How to reach me: **aujsc.aguilar.jadrienroi@gmail.com**
+- 📫 How to reach me: **aujsc.aguilarjadrienroi@gmail.com**
 
 ---
 
