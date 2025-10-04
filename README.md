@@ -6,7 +6,7 @@
 
 I'm a passionate front-end developer exploring modern web technologies. I enjoy building websites, experimenting with UI/UX designs, and continuously learning new frameworks and tools.
 
-- 🌱 I’m currently learning **Advanced JavaScript and React**
+- 🌱 I’m currently learning **Advanced JavaScript**
 - 💻 I love **HTML, CSS, JavaScript, and Tailwind CSS**
 - 📫 How to reach me: **aujsc.aguilar.jadrienroi@gmail.com**
 
