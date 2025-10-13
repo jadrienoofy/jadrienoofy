@@ -18,6 +18,17 @@ I'm a passionate front-end developer exploring modern web technologies. I enjoy 
   <img src="https://skillicons.dev/icons?i=css" width="50" height="50"/>&nbsp;
   <img src="https://skillicons.dev/icons?i=tailwind" width="50" height="50"/>&nbsp;
   <img src="https://skillicons.dev/icons?i=javascript" width="50" height="50"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=php" width="50" height="50"/>&nbsp;
+</p>
+
+---
+
+### 🛠️ Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode" width="50" height="50"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=figma" width="50" height="50"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=visualstudio" width="50" height="50"/>&nbsp;
 </p>
 
 ---
