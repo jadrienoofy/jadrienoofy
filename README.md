@@ -19,6 +19,7 @@ I'm a passionate front-end developer exploring modern web technologies. I enjoy 
   <img src="https://skillicons.dev/icons?i=tailwind" width="50" height="50"/>&nbsp;
   <img src="https://skillicons.dev/icons?i=javascript" width="50" height="50"/>&nbsp;
   <img src="https://skillicons.dev/icons?i=php" width="50" height="50"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql" width="50" height="50"/>&nbsp;
 </p>
 
 ---
