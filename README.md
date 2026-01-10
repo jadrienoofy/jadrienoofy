@@ -1,4 +1,4 @@
-# Jadrien Roi Aguilar | HTML | CSS | Tailwind CSS | Javascript
+# Jadrien Roi Aguilar | HTML | CSS | Tailwind CSS | Javascript | PHP | MySQL
 
 ---
 
